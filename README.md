@@ -16,7 +16,7 @@
 - 📚 I'm studying in Generation Brasil to be a Full Stack Developer. 
 </p>
 <p align="left">
-- 📫 How to reach me **kelvebn.cleiton14@gmail.com**
+- 📫 How to reach me kelven.cleiton14@gmail.com
 </p>
 </div>
 
