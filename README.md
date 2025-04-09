@@ -13,7 +13,7 @@
 - 🤖I graduated in Automation and Control Engineering at the University Center of FEI.
 </p>
 <p align="left">
--  I'm a Software Engineer at Itaú Unibanco.. 
+- 💻 I'm a Software Engineer at Itaú Unibanco.
 </p>
 <p align="left">
 - 📫 How to reach me kelven.cleiton14@gmail.com
