@@ -10,10 +10,10 @@
 - 🌎 I live in São Paulo/Brasil. 
 </p>
 <p align="left">
-- 🤖 I'm Studying Automation and Control Engineering at University Center of FEI
+- 🤖I graduated in Automation and Control Engineering at the University Center of FEI.
 </p>
 <p align="left">
-- 📚 I'm studying in Generation Brasil to be a Full Stack Developer. 
+-  I'm a Software Engineer at Itaú Unibanco.. 
 </p>
 <p align="left">
 - 📫 How to reach me kelven.cleiton14@gmail.com
